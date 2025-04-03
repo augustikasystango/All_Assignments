@@ -4,3 +4,6 @@
 [submodule "interceptor_task"]
 	path = interceptor_task
 	url = git@github.com:augustikasystango/interceptor_task
+[submodule "crud_ts"]
+	path = crud_ts
+	url = git@github.com:augustikasystango/crud_ts
