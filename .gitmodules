@@ -7,3 +7,6 @@
 [submodule "crud_ts"]
 	path = crud_ts
 	url = git@github.com:augustikasystango/crud_ts
+[submodule "task2_react"]
+	path = task2_react
+	url = git@github.com:augustikasystango/task2_react
