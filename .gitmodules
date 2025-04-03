@@ -1,0 +1,3 @@
+[submodule "tanstack_task"]
+	path = tanstack_task
+	url = git@github.com:augustikasystango/tanstack_task.git
