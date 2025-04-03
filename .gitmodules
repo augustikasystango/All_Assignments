@@ -10,3 +10,6 @@
 [submodule "task2_react"]
 	path = task2_react
 	url = git@github.com:augustikasystango/task2_react
+[submodule "toggletheme_task"]
+	path = toggletheme_task
+	url = git@github.com:augustikasystango/Toggle_theme_task
