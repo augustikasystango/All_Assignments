@@ -1,3 +1,6 @@
 [submodule "tanstack_task"]
 	path = tanstack_task
 	url = git@github.com:augustikasystango/tanstack_task.git
+[submodule "interceptor_task"]
+	path = interceptor_task
+	url = git@github.com:augustikasystango/interceptor_task
