@@ -13,3 +13,6 @@
 [submodule "toggletheme_task"]
 	path = toggletheme_task
 	url = git@github.com:augustikasystango/Toggle_theme_task
+[submodule "test_task_2"]
+	path = test_task_2
+	url = git@github.com:augustikasystango/test_task_2
