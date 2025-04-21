@@ -16,3 +16,6 @@
 [submodule "test_task_2"]
 	path = test_task_2
 	url = git@github.com:augustikasystango/test_task_2
+[submodule "router_tanstack_task"]
+	path = router_tanstack_task
+	url = git@github.com:augustikasystango/router_tanstack_task
